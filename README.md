@@ -4,5 +4,6 @@
 # 8. Profile Card
 
 ## Watch the Live Preview 👉[Click Here](https://omkarpandey43.github.io/Web-Development-Projects-Part-1/8-Profile_Card/)
+#### Touch the Icons to view Sites
 
 
